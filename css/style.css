@@ -417,7 +417,7 @@ body._lock {
 .slider-prev::before {
   content: "";
   position: absolute;
-  background-image: url("../img/icon/prev.svg");
+  background-image: url("./img/icon/prev.svg");
   width: 12px;
   height: 21px;
 }
@@ -438,7 +438,7 @@ body._lock {
 .slider-next::before {
   content: "";
   position: absolute;
-  background-image: url("../img/icon/next.svg");
+  background-image: url("./img/icon/next.svg");
   width: 12px;
   height: 21px;
 }
